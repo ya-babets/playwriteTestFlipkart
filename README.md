@@ -1,5 +1,4 @@
-This project is based on playwright and created in  VScode.
-to start you need to setup VS code
+This project is based on playwright https://playwright.dev/
 
 To install Playwright you need to execute in Terminal console of progect directory:
 
@@ -8,3 +7,6 @@ To install Playwright you need to execute in Terminal console of progect directo
 to run current test you need  to execute 
 
                npx playwright test mobilesList.test.ts
+
+
+or you can run  current test on guthub Actions manual run 
